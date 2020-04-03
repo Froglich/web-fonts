@@ -1,0 +1,33 @@
+/**
+ * @author Kim Lindgren
+ * @copyright Kim Lindgren © 2019
+ */
+
+@font-face {
+    font-family: 'Linux Biolinum';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Linux Biolinum O'), local('Linux Biolinum'), url('LinBiolinum_Rah.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Linux Biolinum';
+    font-style: bold;
+    font-weight: 700;
+    src: local('Linux Biolinum O Bold'), local('Linux Biolinum Bold'), url('LinBiolinum_RBah.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Linux Biolinum';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Linux Biolinum O Italic'), local('Linux Biolinum Italic'), url('LinBiolinum_RIah.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Linux Biolinum Keyboard';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Linux Biolinum Keyboard O'), local('Linux Biolinum Keyboard'), url('LinBiolinum_Kah.woff2') format('woff2');
+}
+

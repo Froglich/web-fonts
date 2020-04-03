@@ -1,0 +1,39 @@
+/**
+ * @author Kim Lindgren
+ * @copyright Kim Lindgren © 2019
+ */
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Noto Serif'), local('NotoSerif'), url('NotoSerif-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Noto Serif Bold'), local('NotoSerif-Bold'), url('NotoSerif-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Noto Serif Italic'), local('NotoSerif-Italic'), url('NotoSerif-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Noto Serif Bold Italic'), local('NotoSerif-BoldItalic'), url('NotoSerif-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Noto Mono'), local('NotoMono'), url('NotoMono-Regular.woff2') format('woff2');
+}

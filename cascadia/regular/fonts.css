@@ -1,0 +1,10 @@
+@font-face{
+    font-family: 'Cascadia Code';
+    src: local('Cascadia Code'),
+        url('woff2/Cascadia.woff2') format('woff2'),
+        url('eot/Cascadia.eot') format('embedded-opentype'),
+        url('woff/Cascadia.woff') format('woff'),
+        url('ttf/Cascadia.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}

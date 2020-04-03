@@ -1,0 +1,18 @@
+/**
+ * @author Kim Lindgren
+ * @copyright Kim Lindgren © 2019
+ */
+
+@font-face {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Merienda'), local('Merienda-Regular'), local('Merienda-Regular_0_wt'), url('Merienda-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Merienda Bold'), local('Merienda-Bold'), url('Merienda-Bold.woff2') format('woff2');
+}

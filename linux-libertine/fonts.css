@@ -1,0 +1,47 @@
+/**
+ * @author Kim Lindgren
+ * @copyright Kim Lindgren © 2019
+ */
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Linux Libertine Regular O'), local('Linux Libertine Regular'), url('LinLibertine_Rah.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Linux Libertine O Bold'), local('Linux Libertine Bold'), url('LinLibertine_RBah.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Linux Libertine O Bold Italic'), local('Linux Libertine Bold Italic'), url('LinLibertine_RBIah.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Linux Libertine O Italic'), local('Linux Libertine Italic'), url('LinLibertine_RIah.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Linux Libertine Display';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Linux Libertine Display O'), local('Linux Libertine Display'), url('LinLibertine_DRah.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Linux Libertine Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Linux Libertine Mono O Mono'), local('Linux Libertine Mono Mono'), url('LinLibertine_Mah.woff2') format('woff2');
+}
+

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url('OpenSans-SemiboldItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url('OpenSans-Semibold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 600;
+}
