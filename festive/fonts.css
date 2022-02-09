@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Festive';
+    font-style: normal;
+	font-weight: 400;
+	src: local('Festive'),
+		url('woff2/Festive-Regular.woff2') format('woff2'),
+		url('eot/Festive-Regular.eot') format('embedded-opentype'),
+		url('woff/Festive-Regular.woff') format('woff'),
+		url('ttf/Festive-Regular.ttf') format('truetype');
+}
+
