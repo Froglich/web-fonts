@@ -51,3 +51,7 @@ Monospaced and sans-serif fonts from Google, *Apache License 2.0*
 ## Ubuntu
 
 Monospaced and sans-serif fonts from Dalton Maag, with funding from Canonical Ltc., *UBUNTU FONT LICENCE Version 1.0*
+
+## Zilla Slab
+
+Slab serif font from Mozilla, *SIL OPEN FONT LICENSE Version 1.1*
