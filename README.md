@@ -16,6 +16,10 @@ Monospaced and sans-serif fonts from Mozilla, *SIL OPEN FONT LICENSE Version 1.1
 
 Monospaced, sans-serif, and serif fonts from IBM (big surprise), *SIL OPEN FONT LICENSE Version 1.1*
 
+## Inter
+
+Sans-serif fonts by Rasmus Andersson, *SIL OPEN FONT LICENSE Version 1.1*
+
 ## Lato
 
 Sans-serif font by Łukasz Dziedzic, *SIL OPEN FONT LICENSE Version 1.1*
